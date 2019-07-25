@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/.img">
+        <file>ss.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>dite1.jpg</file>
+        <file>bmi.jpg</file>
+        <file>BMI.png</file>
+        <file>developer.jpg</file>
+        <file>login.jpg</file>
+        <file>register.jpg</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>black.jpg</file>
+        <file>f1.jpg</file>
+        <file>f2.jpg</file>
+        <file>registerone.jpg</file>
+        <file>homepage.jpg</file>
+        <file>whitebackground.jpg</file>
+        <file>exercisebackground.jpg</file>
+        <file>burpees.jpg</file>
+        <file>crunches.png</file>
+        <file>jumpsquats</file>
+        <file>mountainclimbing.jpg</file>
+        <file>plank.jpg</file>
+        <file>pushup.jpg</file>
+        <file>supermanhold.JPG</file>
+        <file>warmups.png</file>
+    </qresource>
+    <qresource prefix="/.txt"/>
+    <qresource prefix="/txt"/>
+</RCC>

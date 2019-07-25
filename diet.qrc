@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/diet">
+        <file>diet/overweight.txt</file>
+        <file>diet/underweight.txt</file>
+        <file>diet/average.txt</file>
+    </qresource>
+</RCC>

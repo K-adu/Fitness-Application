@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file>files/burpee.txt</file>
+        <file>files/crunches.txt</file>
+        <file>files/gym.txt</file>
+        <file>files/jump squats.txt</file>
+        <file>files/mountain climb.txt</file>
+        <file>files/plank.txt</file>
+        <file>files/pushup.txt</file>
+        <file>files/superman hold.txt</file>
+        <file>files/warmup.txt</file>
+    </qresource>
+</RCC>
